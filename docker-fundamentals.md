@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/68426990/155683244-c54a38a1-b35e-419d-8888-eec947d29f2c.png)
+
 **- What is Docker ?**
 
 Docker is a platform for building, running and shipping applications.
@@ -9,26 +11,32 @@ Bcz:
 * Software Version mismatch
 * Different Configuration Settings
 
-This is where Docker comes in Rescue.
+This is where **Docker** comes in Rescue 🚁.
 
 **- Virtual Machines Vs Containers**
 
-How are containers different from Virtual Machines?
+How are containers different from Virtual Machines 🤷‍♂️?
 
 _Virtual Machine:_
-- An abstraction of a machine (physical hardware)
+An abstraction of a machine (physical hardware)
+
 Example: Mac may run Windows & Linux using Hypervisors E.g: VirtualBox, VMware or Hyper-v(windows only)
- Problems of VM:
+
+Problems of VM:
+
 * Each VM needs a full-blown OS
 * Slow to start
 * Resource intensive
 
 _Container:_
-- An isolated environment for running an application.
+ An isolated environment for running an application.
+
+
 Benefits:
+* Allow running multiple apps in isolation
 * Are lightweight
 * Use OS of the host
-* Start quicly
+* Start quickly
 * Need less hardware resources
 
 **- Architecture of Docker**
